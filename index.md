@@ -6,3 +6,9 @@
 sudo -i
 shutdown now
 ```
+
+- [X] Step 1 - Headers
+- [X] Step 2 - Images
+- [X] Step 3 - Code
+- [X] Step 4 - To do list
+- [ ] Step 5 - Merge
